@@ -7,7 +7,7 @@
 
 A modern, responsive digital marketplace for premium music content including beats, educational books, and loop packages. Built with React, TypeScript, and Tailwind CSS.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 
 ## 🎵 About
 
