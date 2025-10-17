@@ -6,7 +6,7 @@ Many many years ago in a galaxy far away whilst trying to sell beats I came acro
 so to dress up or brand as their own beat store. The same principle applies although this is mostly me pushing the bounds of AI and seeing what's possible. After the fact
 I realized this as in fact that which I had happened across before so this can be used as such as a model or template for your own version of a beat shop.
 
-I'll modify it later so that such is more comprehensible but if you understand this code, very easy to edit the title and load your own bastion of sounds.
+I'll modify it later so that such is more comprehensible or prevalent within the display but if you understand this code, very easy to edit the title and load your own bastion of sounds.
 
 
 ![Screenshot](screenshot.jpg)
