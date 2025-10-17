@@ -4,7 +4,7 @@ A modern, responsive digital marketplace for premium music content including bea
 
 Many many years ago in a galaxy far away whilst trying to sell beats I came across a software which was actually a beat store template/mock-up that one could customize
 so to dress up or brand as their own beat store. The same principle applies although this is mostly me pushing the bounds of AI and seeing what's possible. After the fact
-I realized this as in fact that which I had happened across before so can this be used as such a model or template for your own version of a beat shop.
+I realized this as in fact that which I had happened across before so can this can be used as such for a model or template for your own version of a beat shop.
 
 I'll modify it later so that such is more comprehensible but if you understand this code, very easy to edit the title and load your own bastion of sounds.
 
